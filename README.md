@@ -8,15 +8,26 @@ Este proyecto está diseñado para analizar y predecir datos meteorológicos uti
 
 #### Características
 Análisis Exploratorio de Datos (EDA): Obtención de información inicial y estadísticas descriptivas del dataset.
+
 Preprocesamiento: Limpieza y preparación de datos para el modelado.
+
 Modelos de Series de Tiempo:
+
 Modelos Autoregresivos (AR)
+
 ARIMA (AutoRegressive Integrated Moving Average)
+
 SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors)
+
 Redes Neuronales Recurrentes (RNN)
+
 Long Short-Term Memory (LSTM)
+
 Gated Recurrent Units (GRU)
+
 Evaluación de Modelos: Métricas de error y gráficos de predicción para comparar el rendimiento de los modelos.
+
 Requisitos
+
 Python 3.x
 Librerías: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, keras, tensorflow
