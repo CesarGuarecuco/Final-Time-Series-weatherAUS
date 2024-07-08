@@ -3,8 +3,8 @@ Este proyecto utiliza diversos modelos de series de tiempo para analizar y prede
 
 
 ##  Proyecto de Series de Tiempo: Análisis y Predicción
-Descripción
-Este proyecto está diseñado para analizar y predecir datos meteorológicos utilizando una variedad de modelos de series de tiempo. Se centra en la aplicación de técnicas de análisis exploratorio de datos (EDA) y preprocesamiento, así como en el uso de modelos tradicionales y de aprendizaje profundo para la predicción.
+
+El proyecto está diseñado para analizar y predecir datos meteorológicos utilizando una variedad de modelos de series de tiempo. Se centra en la aplicación de técnicas de análisis exploratorio de datos (EDA) y preprocesamiento, así como en el uso de modelos tradicionales y de aprendizaje profundo para la predicción.
 
 #### Características
 Análisis Exploratorio de Datos (EDA): Obtención de información inicial y estadísticas descriptivas del dataset.
